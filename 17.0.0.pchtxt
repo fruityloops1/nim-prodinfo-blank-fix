@@ -1,0 +1,10 @@
+@nsobid-C14BC0AD5027F6B6B49A5A6B2D52D5E8306EE1D2
+
+// PRODINFO blanking crash fix - 17.0.0/17.0.1
+
+@flag print_values
+@flag offset_shift 0x100
+
+// whatever
+@enabled
+00133760 000080D2C0035FD6
