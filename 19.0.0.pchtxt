@@ -1,0 +1,10 @@
+@nsobid-C54A1B3EB06FF3F5DCCBAC1AEFD5CA5459A2A6E6
+
+// PRODINFO blanking crash fix - 19.0.0
+
+@flag print_values
+@flag offset_shift 0x100
+
+// null out function pointer for abort
+@enabled
+001387A8 E2031FAA
