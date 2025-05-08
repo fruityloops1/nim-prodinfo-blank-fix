@@ -1,6 +1,6 @@
 @nsobid-C54A1B3EB06FF3F5DCCBAC1AEFD5CA5459A2A6E6
 
-// PRODINFO blanking crash fix - 19.0.0
+// PRODINFO blanking crash fix - 19.0.0, 19.0.1
 
 @flag print_values
 @flag offset_shift 0x100
