@@ -1,6 +1,6 @@
-@nsobid-CC269DEA7E3AE16FAA39215F5A1CEF5C82FA1C00
+@nsobid-412CA954A47280118C72280EFAEAC33F490793B6
 
-// PRODINFO blanking crash fix - 20.1.0, 20.1.1, 20.1.5
+// PRODINFO blanking crash fix - 20.2.0
 
 @flag print_values
 @flag offset_shift 0x100
